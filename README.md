@@ -38,8 +38,6 @@ cd gradient-descent
 Bashpip install -r requirements.txt
 3. Запустите обучение
 Bashpython main.py
-4. Сделайте прогноз
-Bashpython work.py
 
 📁 Структура проекта
 textgradient-descent/
@@ -54,7 +52,7 @@ textgradient-descent/
 
 warmUpExercise — создание единичной матрицы
 plotData — красивая визуализация данных
-gradientDescent —核心 алгоритм спуска
+gradientDescent — алгоритм спуска
 computeCost — расчёт функции ошибки
 predict — оценка на тестовых данных
 
