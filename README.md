@@ -24,13 +24,6 @@
 - Сохранение обученных параметров
 - Прогнозирование на новых данных
 
----
-
-## 📊 Пример работы
-
-### Исходные данные
-![Данные][(https://github.com/xtwze/gradient-descent/blob/main/preview/data.png?raw=true)](https://github.com/xtwze/gradient-descent/blob/main/DataSet.txt)
-
 
 
 ---
